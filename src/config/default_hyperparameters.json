@@ -1,0 +1,5 @@
+{
+  "n_estimators": 100,
+  "eta": 0.3,
+  "gamma": 0.0
+}
